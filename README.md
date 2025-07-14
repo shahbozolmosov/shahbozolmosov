@@ -1,6 +1,6 @@
 # Hello, I'm Shakhboz 👋
 
-### Senior Full-Stack Developer | Laravel & React TypeScript Enthusiast
+### Full-Stack Developer | Laravel & React TypeScript Enthusiast
 
 I'm a seasoned developer with a passion for crafting scalable, secure, and maintainable applications. With over **3 years** of experience in both backend and frontend development, I bring a strategic approach to solving complex technical challenges and mentoring emerging talent.
 
