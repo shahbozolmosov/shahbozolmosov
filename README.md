@@ -29,7 +29,6 @@ I'm a seasoned developer with a passion for crafting scalable, secure, and maint
 
 - [LinkedIn](https://linkedin.com/in/shahboz-olmosov-dev)
 - [Email](mailto:shahboz.olmosov.dev@gmail.com)
-- [Telegram](https://t.me/shakhboz_235)
 
 ---
 
