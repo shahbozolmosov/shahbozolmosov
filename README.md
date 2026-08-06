@@ -1,41 +1,71 @@
-# Hello, I'm Shakhboz 👋
+# Hi, I'm Shahboz Olmasov.
 
-### Full-Stack Developer | Laravel & React TypeScript Enthusiast
+Java Backend Developer focused on building scalable, reliable and maintainable backend systems.
 
-I'm a seasoned developer with a passion for crafting scalable, secure, and maintainable applications. With over **3 years** of experience in both backend and frontend development, I bring a strategic approach to solving complex technical challenges and mentoring emerging talent.
+## About
 
----
+- Building backend applications with Java and Spring Boot
+- Interested in distributed systems, microservices and system design
+- Working with REST APIs, messaging systems and relational databases
+- Always learning and improving through real-world projects
 
-## 💻 Tech Stack & Tools
+## Tech Stack
 
-### **Backend Development**
-- **Laravel**: Building robust RESTful APIs, microservices, and event-driven systems.
-- Advanced database design & optimization (MySQL, PostgreSQL, MongoDB).
-- Service-oriented architecture, caching, and background job processing.
-  
-### **Frontend Development**
-- **React & TypeScript**: Designing dynamic and responsive UIs.
-- State management (Redux, Context API) and component-driven design.
-- Expertise with modern UI libraries (Material-UI, Ant Design, Tailwind CSS).
+**Languages**
+- Java
+- SQL
 
+**Frameworks**
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
 
-## 📊 GitHub Stats
+**Messaging**
+- RabbitMQ
+- Kafka
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahboz007&show_icons=true&theme=dark)   
+**Databases**
+- PostgreSQL
+- Redis
+- ClickHouse
 
----
+**Tools**
+- Docker
+- Git
+- Maven
+- IntelliJ IDEA
 
-## 📫 Connect With Me
+## Featured Project
 
-- [LinkedIn](https://linkedin.com/in/shahboz-olmosov-dev)
-- [Email](mailto:shahboz.olmosov.dev@gmail.com)
+### Delivery Platform
 
----
+A backend-focused delivery platform built to explore real-world engineering challenges.
 
-## 🎯 Currently Focused On
+Highlights:
 
-- **Optimizing** application performance at scale.
-- **Mentoring** teams and fostering a culture of continuous learning.
-- **Exploring** innovations in cloud infrastructure and serverless architectures.
+- Courier matching using Redis GEO
+- Real-time tracking with WebSocket
+- Event-driven communication with RabbitMQ
+- JWT authentication
+- Dynamic delivery pricing
+- Analytics with ClickHouse
+- Clean Architecture
+- Comprehensive testing with JUnit and Mockito
 
-Thanks for stopping by! I'm always open to discussing tech, leadership, or potential collaborations. Let's build something extraordinary together.
+## Currently Exploring
+
+- Distributed systems
+- Performance optimization
+- Event-driven architecture
+- System design
+
+## Contact
+
+Portfolio: https://shahbozolmosov.uz
+
+LinkedIn:
+https://linkedin.com/in/YOUR_USERNAME
+
+Email:
+YOUR_EMAIL
