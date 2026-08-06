@@ -65,7 +65,7 @@ Highlights:
 Portfolio: https://shahbozolmosov.uz
 
 LinkedIn:
-https://linkedin.com/in/YOUR_USERNAME
+https://linkedin.com/in/shahbozolmosov
 
 Email:
 YOUR_EMAIL
